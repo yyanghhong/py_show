@@ -11,7 +11,7 @@ GOTO exit
 
 cd D:\git\panda-test\py_show
 git commit -am "test"
-git push origin master
+git push origin main
 
 :exit
 
